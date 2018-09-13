@@ -1,6 +1,6 @@
 {
   "name": "ccsexamplenpmmodule",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Example NPM module for build pipe line that allows access to AppConfig information from environment variables.",
   "main": "index.js",
   "directories": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/RoweIT/CCSExampleNPMModule#readme",
   "devDependencies": {
-    "chai": "^4.1.1",
-    "mocha": "^3.5.0"
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
   }
 }
