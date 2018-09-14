@@ -1,6 +1,6 @@
 {
   "name": "ccsexamplenpmmodule",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Example NPM module for build pipe line that allows access to AppConfig information from environment variables.",
   "main": "index.js",
   "directories": {
